@@ -1,5 +1,5 @@
-name: webpage
-title: Webpage
+name: getting-started
+title: Getting Started
 version: 1.2.3
 start_page: ROOT:news.adoc
 nav:
