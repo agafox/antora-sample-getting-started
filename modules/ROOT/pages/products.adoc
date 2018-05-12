@@ -1,9 +1,0 @@
-= Products
-
-== Product A
-
-The latest and greatest in container management.
-
-== Product B
-
-Documentation at its finest.
