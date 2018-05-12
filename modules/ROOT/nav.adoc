@@ -1,5 +1,3 @@
-* xref:news.adoc[News]
-* xref:products.adoc[Products]
-* xref:training.adoc[Training]
-* xref:services.adoc[Services]
-* xref:about.adoc[About Us]
+* xref:installation.adoc[Installing tool]
+* xref:creating-new-project.adoc[Creating a new project]
+* xref:migration.adoc[Migration from other tools]
