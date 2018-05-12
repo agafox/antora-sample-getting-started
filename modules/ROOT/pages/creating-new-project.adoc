@@ -1,0 +1,7 @@
+= Creating a New Project
+
+Run the following command in the console.
+
+```
+mytool new --name getting-started
+```

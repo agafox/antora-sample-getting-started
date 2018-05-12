@@ -1,0 +1,9 @@
+= Migration From Other Tools
+
+== Product A
+
+Follow those guidelines here.
+
+== Product B
+
+Sorry, you are stuck. Start from scratch.

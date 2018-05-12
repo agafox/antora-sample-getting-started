@@ -1,0 +1,18 @@
+= Installing the Tool
+
+== Prerequisites
+
+* Java 8 or higher
+* Eclipse
+
+== Procedure
+
+Download from web page and extract into any directory.
+
+== Verifying installation
+
+Open a console and run the version command.
+
+```
+mytool --version
+```
