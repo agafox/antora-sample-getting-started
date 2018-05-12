@@ -1,0 +1,4 @@
+= News
+
+* Latest release of product A.
+* New feature X.
